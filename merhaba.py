@@ -1,0 +1,1 @@
+print("Merhaba Fatmanur Aydemir. Bu sizin ilk kodunuz")
